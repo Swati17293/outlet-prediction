@@ -2,15 +2,17 @@
 
 This project is an approach to recommend a list of probable outlets covering an event of interest. 
 
-To run this project go through the following steps:
+### Requirements and Setup
 
-To run the tool, Python 2.7+ must be downloaded. The easiest way to download all necessary Python packages is using pip. To do so, navigate to the project root directory and run:
+Python version >= 3.7
+
+Navigate to the project root directory and run:
 ```
-# clone the repository
-git clone https://github.com/Swati17293/outlet-prediction.git
+git clone https://github.com/Swati17293/outlet-prediction.git 
 cd outlet-prediction
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
+To run this project go through the following steps:
 
 ### Vectorize the data for future use
 ```
