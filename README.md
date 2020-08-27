@@ -5,8 +5,6 @@ This project is an approach to recommend a list of probable outlets covering an 
 ### Requirements and Setup
 
 Python version >= 3.7
-
-Navigate to the project root directory and run:
 ```
 git clone https://github.com/Swati17293/outlet-prediction.git 
 cd outlet-prediction
