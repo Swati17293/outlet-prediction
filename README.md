@@ -1,5 +1,7 @@
 ## Are You Following the Right News-Outlet? A MachineLearning based approach for outlet prediction
 
+### Introduction
+
 This project is an approach to recommend a list of probable outlets covering an event of interest. 
 
 ### Requirements and Setup
